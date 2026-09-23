@@ -2,7 +2,7 @@
 
 ### BCA Student | Aspiring Software Engineering | DSA | AI/ML
 
-I'm a BCA student building strong foundations in software engineering, data structures & algorithms, and AI/ML. Currently learning through hands-on projects and problem solving.
+I'm a BCA student at the International School of Management Excellence(ISME) Bengaluru. building strong foundations in software engineering, data structures & algorithms, and AI/ML. Currently learning through hands-on projects and problem solving.
 
 Currently learning, building projects, and improving my problem-solving
 skills through hands-on development.
